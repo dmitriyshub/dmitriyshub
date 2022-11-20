@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
+</div>  
+
+<br />
