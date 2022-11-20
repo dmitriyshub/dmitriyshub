@@ -7,13 +7,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<div align="center">
 
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=dmitriyshub&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="center" />  
 </div>  
 
 <div align="center">
-<!-- <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=for-the-badge" align="center" /> -->
+<img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=for-the-badge" align="center" />
 </div>  
 <!--
 **dmitriyshub/dmitriyshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
