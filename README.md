@@ -8,6 +8,7 @@
 </a>  
 </div>  
 
+ <img src="https://github-readme-stats.vercel.app/api?username=dmitriyshub&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="left" />  
 
 <div align="center">
 <!-- <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=for-the-badge" align="center" /> -->
@@ -26,10 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
-</div>  
-
-<br />
