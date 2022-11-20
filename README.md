@@ -8,7 +8,7 @@
 </a>  
 </div>  
 
- <img src="https://github-readme-stats.vercel.app/api?username=dmitriyshub&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="left" />  
+ <img src="https://github-readme-stats.vercel.app/api?username=dmitriyshub&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="center" />  
 
 <div align="center">
 <!-- <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=for-the-badge" align="center" /> -->
