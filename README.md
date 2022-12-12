@@ -16,7 +16,7 @@
 <table><tr>
 <td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Youtube bot](https://github.com/dmitriyshub/YouTubeBot)  
+- 🔭 I’m currently working on [Telegram bot](https://github.com/dmitriyshub/Jenkins-ex)  
   
 
 - 🌱 I’m currently learning Kubernetes  
