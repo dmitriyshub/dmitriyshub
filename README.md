@@ -5,7 +5,9 @@
 </a>
 <a href="https://linkedin.com/in/dshtranvasser" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
+### Hey 👋, There ! Glad to see you here!  👍
+
 </div>  
   
 <div align="center">
@@ -14,8 +16,6 @@
 
 <table><tr>
 <td valign="top" width="50%">
-
-### Hey 👋, There ! Glad to see you here!  👍
   
 - 🔭 I’m currently working on [Telegram bot](https://github.com/dmitriyshub/Jenkins-ex)  
   
