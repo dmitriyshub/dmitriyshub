@@ -1,5 +1,3 @@
-### Hey 👋, There ! Glad to see you here!  👍
-  
 
 <div align="center">
 <a href="https://github.com/dmitriyshub" target="_blank">
@@ -16,7 +14,7 @@
 </div>  
 
 
-## Rapidfire  
+### Hey 👋, There ! Glad to see you here!  👍
 <table><tr>
 <td valign="top" width="50%">
 
