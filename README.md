@@ -1,4 +1,4 @@
-## Hey 👋, There !  
+### Hey 👋, There ! Glad to see you here!  👍
   
 
 <div align="center">
@@ -16,17 +16,8 @@
 </div>  
 
 
-### Glad to see you here!  
-👍  
-
-
-
-
-
 ## Rapidfire  
 <table><tr>
-
-  
 <td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Youtube bot](https://github.com/dmitriyshub/YouTubeBot)  
