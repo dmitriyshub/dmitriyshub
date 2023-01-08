@@ -24,12 +24,12 @@
 - 🌱 I’m currently learning Kubernetes  
   
 
-- ❓ Ask me about anything related to DevOps and Blockchain technologies  
+- ❓ Ask me about anything related to DevOps  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
--  :atom:	Miss You !   
+- 😞 **Miss you** :atom:  
 
 </td><td valign="top" width="50%">
 
