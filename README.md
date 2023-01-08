@@ -33,14 +33,10 @@
 - 😞 I’m **Miss you** a lot :atom:  
 
 </td><td valign="top" width="50%">
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-
-
 </td></tr></table>  
-
 <br/>  
 
 <h2 align="center">
