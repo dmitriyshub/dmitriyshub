@@ -29,6 +29,7 @@
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
+-  :atom:	Miss You !   
 
 </td><td valign="top" width="50%">
 
@@ -87,9 +88,7 @@
 
 <br/>  
 
-<div align="center">
-Miss You :atom:	
-</div>    
+ 
 
 <br/>  
 
