@@ -29,7 +29,7 @@
 
 - ⚡ **Fun fact:** I keep night shift swithed on at all times   
 
-- 😞 **Miss you** :atom:  
+- 😞 I’m **Miss you** a lot :atom:  
 
 </td><td valign="top" width="50%">
 
