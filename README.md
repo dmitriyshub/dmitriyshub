@@ -81,7 +81,6 @@
 </td></tr></table>  
 
 <br/>  
-
 <br/>  
 
 <div align="center">
@@ -89,11 +88,7 @@
 :israel:
 ♻️
 </div>  
-  
-
+ 
 <br/>  
-
-
 <br />
-
 ----
