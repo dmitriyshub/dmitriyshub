@@ -18,16 +18,16 @@
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m currently working on [Telegram bot](https://github.com/dmitriyshub/Jenkins-ex)  
+- 🔭 I’m currently working on [**Telegram bot CI/CD**](https://github.com/dmitriyshub/Jenkins-ex)  
   
 
-- 🌱 I’m currently learning Kubernetes  
+- 🌱 I’m currently learning **Kubernetes** 
   
 
-- ❓ Ask me about anything related to DevOps  
+- ❓ Ask me about anything related to **DevOps**  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ **Fun fact:** I keep night shift swithed on at all times   
 
 - 😞 **Miss you** :atom:  
 
