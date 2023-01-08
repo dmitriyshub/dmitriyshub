@@ -84,8 +84,8 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
 :israel:
+<img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
 :ukraine:
 ♻️
 </div>  
