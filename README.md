@@ -77,7 +77,7 @@
 <br/>  
 
 <h2 align="center">
-🚀 Github Stats 🚀 
+🏆 Github Stats 🏆 
 </h2>
 
 <table><tr><td valign="top" width="50%">
