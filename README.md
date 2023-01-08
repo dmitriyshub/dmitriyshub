@@ -23,7 +23,7 @@
 
 - ⚡ **Fun fact:** I keep night shift swithed on at all times   
 
-- 😞 I’m **Miss you** my Friend [:atom:](https://github.blog/2022-06-08-sunsetting-atom/)
+- 😞 I’m **Miss you** my atom [:atom:](https://github.blog/2022-06-08-sunsetting-atom/)
   
 - ♓ ☮️  💹 📚  🎯 🕹️ 🏊‍♂️ ⚽ 🥋 ✈️ 🗺️ 🐶 🐱
  
