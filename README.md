@@ -24,7 +24,9 @@
 - ⚡ **Fun fact:** I keep night shift swithed on at all times   
 
 - 😞 I’m **Miss you** a lot [:atom:](https://github.blog/2022-06-08-sunsetting-atom/)
-
+  
+- ♓ ☮️ ↗️ 💹 📚 💻 🎯 🕹️ 🏊‍♂️ ⚽ 🥋 ✈️ 🗺️ 🐶 🐱
+ 
 </td><td valign="top" width="50%">
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
