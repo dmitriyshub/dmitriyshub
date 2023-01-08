@@ -83,13 +83,12 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriyshub&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+<img src="https://github.com/dmitriyshub/github-stats-transparent/blob/7de8de39e864c78ef5524a274d3ebfe7f62bf7dd/generated/languages.svg" align="left" style="width: 100%" />
 </td></tr></table>  
 
 <br/>  
 
- 
+ https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriyshub&hide_border=true&layout=compact
 
 <br/>  
 
