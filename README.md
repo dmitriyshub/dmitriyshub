@@ -76,7 +76,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats 🚀 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github.com/dmitriyshub/github-stats-transparent/blob/7de8de39e864c78ef5524a274d3ebfe7f62bf7dd/generated/overview.svg" align="left" style="width: 100%" />
@@ -91,9 +91,10 @@
 <br/>  
 
 <div align="center">
+☁️
 <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
 :israel:
-♻️☁️🚀
+♻️
 </div>  
   
 
