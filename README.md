@@ -16,17 +16,14 @@
 <td valign="top" width="50%">
   
 - 🔭 I’m currently working on [**Telegram bot CI/CD**](https://github.com/dmitriyshub/Jenkins-ex)  
-  
 
-- 🌱 I’m currently learning **Kubernetes** 
-  
+- 🌱 I’m currently learning [**Kubernetes**](https://github.com/dmitriyshub/kube-hub)
 
-- ❓ Ask me about anything related to **DevOps**  
-  
+- ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) 
 
 - ⚡ **Fun fact:** I keep night shift swithed on at all times   
 
-- 😞 I’m **Miss you** a lot :atom:  
+- 😞 I’m **Miss you** a lot [:atom:](https://github.blog/2022-06-08-sunsetting-atom/)
 
 </td><td valign="top" width="50%">
 <div align="center">
