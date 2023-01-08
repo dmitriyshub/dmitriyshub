@@ -13,7 +13,7 @@
 </div>
 
 <h2 align="center">
-👋 Hey There, Glad to see you here 👍
+👋 Hey There, Glad to see you here 👋
 </h2>
 
 <table><tr>
