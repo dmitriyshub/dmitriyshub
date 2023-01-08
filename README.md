@@ -21,9 +21,9 @@
 
 - ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) 
 
-- ⚡ **Fun fact:** I keep night shift swithed on at all times   
+- ⚡ **Fun fact** I keep night shift swithed on at all times   
 
-- 😞 I’m **Miss you** my atom [:atom:](https://github.blog/2022-06-08-sunsetting-atom/)
+- 😞 I’m **Miss you** my [**atom** :atom:](https://github.blog/2022-06-08-sunsetting-atom/)
   
 - ♓ ☮️  💹 📚  🎯 🕹️ 🏊‍♂️ ⚽ 🥋 ✈️ 🗺️ 🐶 🐱
  
