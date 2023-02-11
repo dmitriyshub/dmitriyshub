@@ -15,7 +15,7 @@
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m currently working on [**Telegram bot CI/CD**](https://github.com/dmitriyshub/Jenkins-ex)  
+- 🔭 I’m currently working in **Red Hat**  
 
 - 🌱 I’m currently learning [**Kubernetes**](https://github.com/dmitriyshub/kube-hub)
 
