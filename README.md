@@ -15,7 +15,7 @@
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m currently working in **Red Hat**  
+- 🔭 I’m currently working at **Red Hat**  
 
 - 🌱 I’m currently learning [**Kubernetes**](https://github.com/dmitriyshub/kube-hub)
 
@@ -27,12 +27,6 @@
   
 - ♓ ☮️ 💹 📚 🗺️ ✈️ 🕹️ 🏊‍♂️ ⚽ 🥋 🐶 🐱
  
-</td><td valign="top" width="50%">
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-</td></tr></table>  
-<br/>  
 
 <h2 align="center">
 🧰 Skills & Tools 🧰
