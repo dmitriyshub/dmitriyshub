@@ -76,7 +76,7 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
 
 <br/>  
 
-- ⭐ One of my favorite command prompt 👮
+- ⭐ Favorite Commands 👮
 ```bash
 history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 3579 oc
