@@ -80,7 +80,7 @@
 </div> 
 
 <div align="center">
-:israel: :ukraine: ♻️
+♻️ :israel: :ukraine: :georgia: ♻️
 </div>
 
 <br/>  
