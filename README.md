@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">
-I am Dima, a full time Cloud Consultant and DevOps Engineer 👋
+I am Dima, a Cloud Consultant and DevOps Engineer 👋
 </h2>
 <table><tr>
 <td valign="top" width="50%">
