@@ -59,8 +59,6 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
 </div>  
 
-<br/>  
-
 <h2 align="center">
 ⭐ Favorite Commands ⭐
 </h2>
