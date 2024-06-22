@@ -84,10 +84,11 @@
 <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
 </div> 
 <div align="center">
-♻️ :israel: :ukraine: :georgia: ♻️
+:cloud: :israel: :ukraine: :georgia: :cloud:
+</div>
+<div align="center">
+♻️
 </div>
 
 <br/>  
-<br />
-
 ----
