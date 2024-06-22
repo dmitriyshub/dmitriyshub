@@ -26,7 +26,7 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
   
 - **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) 🙏
 
-- 💹  📚  🗺️  🌏  ✈️  🎮  🏊‍♂️  ⚽  🥋  🐶  🐱  :octocat:  🎧  🍻
+- 💹   📚   🗺️   🌏   ✈️   🎮   🏊‍♂️   ⚽   🥋   🐶   🐱   :octocat:   🎧   🍻
  
 <h2 align="center">
 🧰 Skills & Tools 🧰
