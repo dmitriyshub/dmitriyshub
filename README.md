@@ -26,7 +26,7 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
   
 - 😞 **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) 🙏
 
-- ⭐ One of my favorite command 👮
+- ⭐ One of my favorite command prompt 👮
 ```bash
 history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 ```
