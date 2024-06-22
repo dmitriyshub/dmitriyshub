@@ -25,10 +25,14 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
 - :mortar_board: **My latest project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
   
 - 😞 **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
-  
+
+- One of Favorites
+```bash
+history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
+```
+
 - ♓ ☮️ 💹 📚 🗺️ 🌏 ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 :octocat: 🎧 :beers:
  
-
 <h2 align="center">
 🧰 Skills & Tools 🧰
 </h2>
