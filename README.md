@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">
-Hey There, Glad to see you in my GitHub 👋
+Hey There, Glad to see you in my Git 👋
 </h2>
 <table><tr>
 <td valign="top" width="50%">
