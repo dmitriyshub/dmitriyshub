@@ -17,8 +17,8 @@
 
 - ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) :computer:
 
-- ⚡ **Fun fact** I keep night shift swithed on at all times :waning_crescent_moon:
-
+- ⚡ **Fun fact** I'm a big fan of classic video games and have restored several vintage arcade consoles, giving them new life with modern tech 🕹️🎮 My latest project? Build a new Raspberry Pi and configure RetroPi OS with 20000 games. 💾🖥️
+  
 - 😞 **I Miss You** [**atom** :atom: RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
   
 - ♓ ☮️ 💹 📚 🗺️ ✈️ 🕹️ 🏊‍♂️ ⚽ 🥋 🐶 🐱
