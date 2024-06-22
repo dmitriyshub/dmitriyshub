@@ -13,7 +13,7 @@
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m currently working at **Red Hat**  
+- 🔭 I’m currently working at **Red Hat** :small_red_triangle:
 
 - ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) 
 
