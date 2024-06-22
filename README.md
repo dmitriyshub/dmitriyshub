@@ -24,7 +24,7 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
 
 - **My Latest Project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
   
-- **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) 🙏
+- **I Miss You** [:atom: **Atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) 🙏
 
 - 💹   📚   🗺️   🌏   ✈️   🎮   🏊‍♂️   ⚽   🥋   🐶   🐱   :octocat:   🎧   🍻
  
