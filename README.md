@@ -16,22 +16,22 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) :o:
+- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) 🔴
 
-- ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) :computer:
+- ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) 💻
 
 - ⚡ **Fun fact** I'm a big fan of classic video games and have restored several vintage arcade consoles 🕹️
 
-- :mortar_board: **My latest project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
+- 🎓 **My latest project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
   
-- 😞 **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
+- 😞 **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) 🙏
 
-- One of Favorites
+- ⭐ One of my favorite command 👮
 ```bash
 history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 ```
 
-- ♓ ☮️ 💹 📚 🗺️ 🌏 ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 :octocat: 🎧 :beers:
+- ♓ ☮️ 💹 📚 🗺️ 🌏 ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 :octocat: 🎧 🍻
  
 <h2 align="center">
 🧰 Skills & Tools 🧰
