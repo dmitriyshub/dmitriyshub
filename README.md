@@ -16,7 +16,7 @@ I am Dima, a full time Cloud Consultant and DevOps Engineer 👋
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) :small_red_triangle:
+- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) :o:
 
 - ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) :computer:
 
@@ -24,9 +24,9 @@ I am Dima, a full time Cloud Consultant and DevOps Engineer 👋
 
 - :mortar_board: **My latest project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
   
-- 😞 **I Miss You** [**atom** :atom: RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
+- 😞 **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
   
-- ♓ ☮️ 💹 📚 🗺️ ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 🎧 
+- ♓ ☮️ 💹 📚 🗺️ 🌏 ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 :octocat: 🎧 :beers:
  
 <h2 align="center">
 🧰 Skills & Tools 🧰
