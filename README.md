@@ -1,3 +1,6 @@
+
+---
+
 <div align="center">
 <a href="https://github.com/dmitriyshub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -8,12 +11,12 @@
 </div>
 
 <h1 align="center">
-👋 Hey There, Glad to see you here 👋
+I am Dima, a Cloud Consultant and DevOps Engineer 👋
 </h2>
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) :small_red_triangle:
+- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) :o:
 
 - ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) :computer:
 
@@ -21,13 +24,11 @@
 
 - :mortar_board: **My latest project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
   
-- 😞 **I Miss You** [**atom** :atom: RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
+- 😞 **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
   
-- ♓ ☮️ 💹 📚 🗺️ ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 🎧 
+- ♓ ☮️ 💹 📚 🗺️ 🌏 ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 :octocat: 🎧 :beers:
  
-```bash
-history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
-```
+
 <h2 align="center">
 🧰 Skills & Tools 🧰
 </h2>
@@ -75,17 +76,20 @@ history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 </td></tr></table>  
 
 <br/>  
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dmitriyshub&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
+</div>  
+
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
 </div> 
-
 <div align="center">
-♻️ :israel: :ukraine: :georgia: ♻️
+:cloud: :israel: :ukraine: :georgia: ♻️
 </div>
 
 <br/>  
-<br />
 
 ----
