@@ -13,13 +13,13 @@
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m currently working at **Red Hat** :small_red_triangle:
+- 🔭 I’m Currently Working at **Red Hat** :small_red_triangle:
 
-- ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) 
+- ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) :computer:
 
-- ⚡ **Fun fact** I keep night shift swithed on at all times   
+- ⚡ **Fun fact** I keep night shift swithed on at all times :waning_crescent_moon:
 
-- 😞 **I Miss you** [**atom** :atom: RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/)
+- 😞 **I Miss You** [**atom** :atom: RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
   
 - ♓ ☮️ 💹 📚 🗺️ ✈️ 🕹️ 🏊‍♂️ ⚽ 🥋 🐶 🐱
  
