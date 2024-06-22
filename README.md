@@ -92,8 +92,6 @@ history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 <img src="https://github.com/dmitriyshub/github-stats-transparent/blob/7de8de39e864c78ef5524a274d3ebfe7f62bf7dd/generated/languages.svg" align="left" style="width: 100%" />
 </td></tr></table>  
 
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
 </div> 
