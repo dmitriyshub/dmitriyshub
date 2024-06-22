@@ -62,10 +62,9 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
 <br/>  
 
 <h2 align="center">
-🏆 Github Stats 🏆 
+⭐ Favorite Commands ⭐
 </h2>
 
-- ⭐ Favorite Commands 👮
 ```bash
 history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 3579 oc
@@ -80,6 +79,10 @@ history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 203 export
 ```
 
+<h2 align="center">
+🏆 Github Stats 🏆 
+</h2>
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github.com/dmitriyshub/github-stats-transparent/blob/7de8de39e864c78ef5524a274d3ebfe7f62bf7dd/generated/overview.svg" align="left" style="width: 100%" />
@@ -88,8 +91,6 @@ history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 
 <img src="https://github.com/dmitriyshub/github-stats-transparent/blob/7de8de39e864c78ef5524a274d3ebfe7f62bf7dd/generated/languages.svg" align="left" style="width: 100%" />
 </td></tr></table>  
-
-<br/>  
 
 <br/>  
 
