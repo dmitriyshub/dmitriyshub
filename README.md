@@ -77,8 +77,11 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
-</div>  
+</div> 
+
+<div align="center">
 :israel: :ukraine: ♻️
+</div>
 
 <br/>  
 <br />
