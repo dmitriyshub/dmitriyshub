@@ -16,15 +16,15 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) 🔴
+- I’m Currently Working at [**RedHat**](https://www.redhat.com/en) 🔴
 
-- ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) 💻
+- Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) ❓
 
-- ⚡ **Fun fact** I'm a big fan of classic video games and have restored several vintage arcade consoles 🕹️
+- **Fun fact** I'm a big fan of classic video games and have restored several vintage arcade consoles 🕹️
 
-- 🎓 **My latest project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
+- **My Latest Project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
   
-- 😞 **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) 🙏
+- **I Miss You** [:atom: **atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) 🙏
 
 - ♓ ☮️ 💹 📚 🗺️ 🌏 ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 :octocat: 🎧 🍻
  
