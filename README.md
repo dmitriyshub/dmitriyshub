@@ -1,3 +1,5 @@
+---
+
 <div align="center">
 <a href="https://github.com/dmitriyshub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -25,7 +27,6 @@
   
 - ♓ ☮️ 💹 📚 🗺️ ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 🎧 
  
-
 <h2 align="center">
 🧰 Skills & Tools 🧰
 </h2>
@@ -84,11 +85,9 @@
 <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
 </div> 
 <div align="center">
-:cloud: :israel: :ukraine: :georgia: :cloud:
-</div>
-<div align="center">
-♻️
+:cloud: :israel: :ukraine: :georgia: ♻️
 </div>
 
 <br/>  
+
 ----
