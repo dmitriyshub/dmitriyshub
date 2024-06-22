@@ -17,7 +17,9 @@
 
 - ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) :computer:
 
-- ⚡ **Fun fact** I'm a big fan of classic video games and have restored several vintage arcade consoles 🕹️🎮 My latest project? Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾🖥️
+- ⚡ **Fun fact** I'm a big fan of classic video games and have restored several vintage arcade consoles 🕹️
+
+- :mortar_board: **My latest project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
   
 - 😞 **I Miss You** [**atom** :atom: RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) :pray:
   
