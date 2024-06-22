@@ -10,7 +10,7 @@
 </a> 
 </div>
 
-<h1 align="center">
+<h1 align="left">
 I am Dima, a Cloud Consultant and DevOps Engineer 👋
 </h2>
 <table><tr>
