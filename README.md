@@ -16,7 +16,7 @@ I am Dima, a full time Cloud Consultant and DevOps Engineer 👋
 <table><tr>
 <td valign="top" width="50%">
   
-- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) :o:
+- 🔭 I’m Currently Working at [**Red Hat**](https://www.redhat.com/en) :o: [redhat logo](./redhat.webp)
 
 - ❓ Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) :computer:
 
