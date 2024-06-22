@@ -29,6 +29,16 @@ I am Dima, a Cloud Consultant and DevOps Engineer 👋
 - ⭐ One of my favorite command prompt 👮
 ```bash
 history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
+3579 oc
+1513 ls
+1397 git
+680 vi
+737 ansible-playbook
+504 podman
+345 ssh
+321 cd
+309 docker
+203 export
 ```
 
 - ♓ ☮️ 💹 📚 🗺️ 🌏 ✈️ 🎮 🏊‍♂️ ⚽ 🥋 🐶 🐱 :octocat: 🎧 🍻
